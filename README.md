@@ -31,15 +31,14 @@ I'm a **Full Stack Software Engineer** based in **San Jose, CA**, passionate abo
 
 ## 🧠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,html,css,react,nextjs,angular,ionic,nodejs,express,django,flask,spring,mysql,postgres,mongodb,redis,graphql,docker,kubernetes,aws,gcp,azure,jenkins,linux,git,vscode,postman,figma,vercel,heroku" />
-</p>
+## 🛠️ Skills
+**Languages & Web Technologies**: ![C](https://img.shields.io/badge/-C-informational?style=flat&logo=C&logoColor=white) ![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=C++&logoColor=white) ![C#](https://img.shields.io/badge/-C#-informational?style=flat&logo=C#&logoColor=white) ![Java](https://img.shields.io/badge/-Java-informational?style=flat&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=white) ![JSP](https://img.shields.io/badge/-JSP-informational?style=flat&logo=JSP&logoColor=white) ![Servlets](https://img.shields.io/badge/-Servlets-informational?style=flat&logo=Servlets&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-informational?style=flat&logo=HTML&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-informational?style=flat&logo=CSS&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-informational?style=flat&logo=Tailwind&logoColor=white) ![BootStrap](https://img.shields.io/badge/-BootStrap-informational?style=flat&logo=BootStrap&logoColor=white) ![Redux.](https://img.shields.io/badge/-Redux.-informational?style=flat&logo=Redux.&logoColor=white)
 
-**Additional Skills:**
-- **ML/AI**: LangChain, LLMs, Pandas, NumPy, Scikit-Learn, TensorFlow
-- **DevOps**: GitHub Actions, CI/CD, Nginx, Swagger, Mocha, JUnit
-- **Infra/Data**: Kafka, Firebase, DynamoDB, CosmosDB
-- **Concepts**: REST, gRPC, JWT, OAuth, ETL, Microservices, Agile, Scrum
+**FrameWorks**: ![React.js](https://img.shields.io/badge/-React.js-informational?style=flat&logo=React.js&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-informational?style=flat&logo=Next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-informational?style=flat&logo=Express.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-informational?style=flat&logo=Flask&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-informational?style=flat&logo=Spring&logoColor=white) ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-informational?style=flat&logo=Spring&logoColor=white) ![Spring Security](https://img.shields.io/badge/-Spring%20Security-informational?style=flat&logo=Spring&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-informational?style=flat&logo=Spring&logoColor=white) ![Spring WebFlux](https://img.shields.io/badge/-Spring%20WebFlux-informational?style=flat&logo=Spring&logoColor=white) ![JUnit](https://img.shields.io/badge/-JUnit-informational?style=flat&logo=JUnit&logoColor=white)
+
+**Cloud & Databases**: ![Amazon Web Services (AWS)](https://img.shields.io/badge/-Amazon%20Web%20Services%20(AWS)-informational?style=flat&logo=Amazon&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat&logo=MySQL&logoColor=white) ![SnowFlake](https://img.shields.io/badge/-SnowFlake-informational?style=flat&logo=SnowFlake&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-informational?style=flat&logo=Redis&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-informational?style=flat&logo=Firebase&logoColor=white) ![DynamoDB](https://img.shields.io/badge/-DynamoDB-informational?style=flat&logo=DynamoDB&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=Docker&logoColor=white)
+
+**Miscellaneous Tools and Technologies**: ![Git](https://img.shields.io/badge/-Git-informational?style=flat&logo=Git&logoColor=white) ![REST](https://img.shields.io/badge/-REST-informational?style=flat&logo=REST&logoColor=white) ![SOAP](https://img.shields.io/badge/-SOAP-informational?style=flat&logo=SOAP&logoColor=white) ![Swagger/OpenAPI](https://img.shields.io/badge/-Swagger/OpenAPI-informational?style=flat&logo=Swagger/OpenAPI&logoColor=white) ![gRPC](https://img.shields.io/badge/-gRPC-informational?style=flat&logo=gRPC&logoColor=white) ![OAuth](https://img.shields.io/badge/-OAuth-informational?style=flat&logo=OAuth&logoColor=white) ![IAM](https://img.shields.io/badge/-IAM-informational?style=flat&logo=IAM&logoColor=white) ![LDAP](https://img.shields.io/badge/-LDAP-informational?style=flat&logo=LDAP&logoColor=white) ![SSO](https://img.shields.io/badge/-SSO-informational?style=flat&logo=SSO&logoColor=white) ![HashiCorp Vault](https://img.shields.io/badge/-HashiCorp%20Vault-informational?style=flat&logo=HashiCorp&logoColor=white) ![Android](https://img.shields.io/badge/-Android-informational?style=flat&logo=Android&logoColor=white)
 
 ---
 
@@ -67,9 +66,9 @@ I'm a **Full Stack Software Engineer** based in **San Jose, CA**, passionate abo
 
 ## 📈 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsanjay009&show_icons=true&theme=light&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsanjay009&show_icons=true&theme=light&count_private=true)
 
-![Rahul's GitHub Streak](https://streak-stats.demolab.com/?user=rahulsanjay009&theme=light)
+![GitHub Streak](https://streak-stats.demolab.com?user=rahulsanjay009&theme=light)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsanjay009&layout=compact&theme=light)
 
