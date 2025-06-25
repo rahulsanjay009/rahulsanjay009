@@ -11,11 +11,18 @@ I'm a passionate and creative **Full Stack Software Engineer** based in **San Jo
 
 ## 👨‍🎓 About Me
 
-🚀 Former **Software Engineer** at **Amazon** and currently building internal platforms at **NexInfo** using **React, Django, AWS**, and **AI-powered bots**. I’ve delivered tools that optimize inventory, automate operations, and provide real-time data insights.
+<div align="left">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div>
+      🚀 Former **Software Engineer** at **Amazon** and currently building internal platforms at **NexInfo** using **React, Django, AWS**, and **AI-powered bots**. I’ve delivered tools that optimize inventory, automate operations, and provide real-time data insights.
 
-🎓 I'm finishing my **MS in Computer Science** at **San Jose State University**. My academic and professional journey reflects my love for full-stack architecture, cloud technologies, and applied machine learning.
+      🎓 I'm finishing my **MS in Computer Science** at **San Jose State University**. My academic and professional journey reflects my love for full-stack architecture, cloud technologies, and applied machine learning.
 
-💡 Whether it's transforming business workflows or scaling backend pipelines, I enjoy bringing together design, code, and collaboration to make great software happen.
+      💡 Whether it's transforming business workflows or scaling backend pipelines, I enjoy bringing together design, code, and collaboration to make great software happen.
+    </div>
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Gif" />
+  </div>
+</div>
 
 ---
 
@@ -58,11 +65,15 @@ I'm a passionate and creative **Full Stack Software Engineer** based in **San Jo
 
 ## 📈 GitHub Stats
 
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsanjay009&show_icons=true&theme=light&count_private=true) 
-![Rahul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahulsanjay009&theme=light) 
+## 📈 GitHub Stats
+
+![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsanjay009&show_icons=true&theme=light&count_private=true)
+
+![Rahul's GitHub Streak](https://streak-stats.demolab.com?user=rahulsanjay009&theme=light)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsanjay009&layout=compact&theme=light)
 
-[![Rahul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rahulsanjay009&theme=light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsanjay009&theme=light)](https://github.com/rahulsanjay009)
 
 ---
 
