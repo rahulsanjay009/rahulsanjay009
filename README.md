@@ -1,24 +1,26 @@
 # 👋 Hi there, I'm Rahul Sanjay Morishetti
 
-I'm a passionate and creative **Full Stack Software Engineer** based in **San Jose, CA**, driven by curiosity and the thrill of solving real-world problems through scalable software systems. I build modern web apps, cloud-native platforms, and intelligent assistants across diverse tech stacks.
+I'm a **Full Stack Software Engineer** based in **San Jose, CA**, passionate about crafting scalable web, cloud, and AI-powered applications. From building fast React UIs to deploying secure microservices on the cloud, I enjoy turning business ideas into engineering solutions that scale.
 
-📚 I'm currently exploring advanced system design and large language model (LLM) integrations while actively seeking **full-time software engineering roles starting July 2025**.
+📚 Currently wrapping up my **MS in Computer Science** at **San Jose State University**, I’m actively looking for **full-time software engineering roles starting July 2025**.
 
 📫 **Reach me at:** rahul.sanjay009@gmail.com  
-🌍 [Portfolio Website](https://rahulsanjay009.github.io) | 💼 [LinkedIn](https://www.linkedin.com/in/rahulsanjay009/) | 🐱 [GitHub](https://github.com/rahulsanjay009) | 🧠 [LeetCode](https://leetcode.com/rahulsanjay009)
+🌐 [Portfolio](https://rahulsanjay009.github.io) | 💼 [LinkedIn](https://www.linkedin.com/in/rahulsanjay009/) | 🐱 [GitHub](https://github.com/rahulsanjay009) | 🧠 [LeetCode](https://leetcode.com/rahulsanjay009)
 
 ---
 
-## 👨‍🎓 About Me
+## 👨‍💻 About Me
 
 <div align="left">
   <div style="display: flex; align-items: center; gap: 20px;">
     <div>
-      🚀 Former **Software Engineer** at **Amazon** and currently building internal platforms at **NexInfo** using **React, Django, AWS**, and **AI-powered bots**. I’ve delivered tools that optimize inventory, automate operations, and provide real-time data insights.
+      🔹 Former **Software Engineer** at **Amazon**, now building internal tools at **NexInfo** using **React**, **Django**, and **AWS**.
 
-      🎓 I'm finishing my **MS in Computer Science** at **San Jose State University**. My academic and professional journey reflects my love for full-stack architecture, cloud technologies, and applied machine learning.
+      🔹 I’ve created chatbots, inventory systems, and forecasting tools — all focused on performance and automation.
 
-      💡 Whether it's transforming business workflows or scaling backend pipelines, I enjoy bringing together design, code, and collaboration to make great software happen.
+      🔹 I love building end-to-end solutions using modern frontend frameworks, RESTful backends, and cloud-native pipelines.
+
+      🔹 Tech-savvy and business-aware — I collaborate cross-functionally and deliver impact fast.
     </div>
     <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Gif" />
   </div>
@@ -26,44 +28,41 @@ I'm a passionate and creative **Full Stack Software Engineer** based in **San Jo
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,ts,js,ruby,go,html,css,react,nextjs,angular,ionic,nodejs,express,django,flask,spring,mysql,postgres,mongodb,redis,graphql,docker,kubernetes,aws,gcp,azure,jenkins,nginx,linux,git,vscode,postman,figma,vercel,heroku" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,cpp,html,css,react,nextjs,angular,ionic,nodejs,express,django,flask,spring,mysql,postgres,mongodb,redis,graphql,docker,kubernetes,aws,gcp,azure,jenkins,linux,git,vscode,postman,figma,vercel,heroku" />
 </p>
 
-🧠 Other Technologies & Concepts:
-- LangChain, LLMs, Pandas, NumPy, scikit-learn, Matplotlib, TensorFlow
-- REST, SOAP, gRPC APIs, OAuth, JWT, Redux, Prisma
-- Apache Kafka, Firebase, CosmosDB, DynamoDB
-- Agile, CI/CD, GitHub Actions, JUnit, Jest, Swagger, Mocha, ETL
-- Adobe XD, Dreamweaver, Photoshop, AR/VR, Unity
+**Additional Skills:**
+- **ML/AI**: LangChain, LLMs, Pandas, NumPy, Scikit-Learn, TensorFlow
+- **DevOps**: GitHub Actions, CI/CD, Nginx, Swagger, Mocha, JUnit
+- **Infra/Data**: Kafka, Firebase, DynamoDB, CosmosDB
+- **Concepts**: REST, gRPC, JWT, OAuth, ETL, Microservices, Agile, Scrum
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-**NexInfo Solutions Inc.** — *Software Engineer*  
-*Jan 2024 – Present*  
-- Developed React-based inventory & event management systems with Django REST APIs
-- Integrated AI bots using AWS Lex and cloud automation pipelines using Docker & EC2
+### 🔸 NexInfo Solutions Inc. — *Software Engineer*  
+📆 *Jan 2024 – Present*  
+- Designed React + Django-based internal IMS and event modules
+- Deployed AI chatbot via AWS Lex, integrated EC2-backed automation flows
 
-**Amazon Development Center** — *Software Engineer*  
-*Aug 2021 – Jul 2022*  
-- Designed UI workflows and automation tools to streamline approval pipelines
-- Reduced manual data verification tasks by 30% through internal orchestration tools
-
----
-
-## 🧩 Featured Projects
-
-- 🔗 [Party Rentals IMS](https://github.com/rahulsanjay009/partyrentals) – Real-time inventory dashboard with chatbot support
-- 🔗 [Adaptive Sales Forecasting](https://github.com/rahulsanjay009/adaptive-sales-forecasting) – Dockerized ML platform using XGBoost, LSTM, SARIMA
-- 🔗 [Grocery App](https://github.com/rahulsanjay009/grocery-app) – Ionic + Spring Boot app for real-time order fulfillment
+### 🔸 Amazon Development Center — *Software Engineer*  
+📆 *Aug 2021 – Jul 2022*  
+- Created workflow automation tools, cutting manual reviews by 30%
+- Worked across Spring Boot, internal dashboards, and orchestration pipelines
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Projects
+
+- 📦 [**Party Rentals IMS**](https://github.com/rahulsanjay009/partyrentals): Inventory dashboard with React UI, Django backend, and AWS Lex chatbot
+- 📊 [**Adaptive Sales Forecasting**](https://github.com/rahulsanjay009/adaptive-sales-forecasting): Time-series ML (LSTM, SARIMA, XGBoost), deployed with Docker on OCI
+- 🛒 [**Grocery App**](https://github.com/rahulsanjay009/grocery-app): Real-time grocery ordering platform using Ionic + Spring Boot
+
+---
 
 ## 📈 GitHub Stats
 
@@ -77,9 +76,8 @@ I'm a passionate and creative **Full Stack Software Engineer** based in **San Jo
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Connect With Me
 
-📬 Feel free to reach out for collaborations, freelance gigs, or just to say hi 👋  
 📧 **rahul.sanjay009@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/rahulsanjay009/) | 🐱 [GitHub](https://github.com/rahulsanjay009) | 🧠 [LeetCode](https://leetcode.com/rahulsanjay009)
 
