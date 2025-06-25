@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Software Engineer** based in **San Jose, CA**, passionate about crafting scalable web, cloud, and AI-powered applications. From building fast React UIs to deploying secure microservices on the cloud, I enjoy turning business ideas into engineering solutions that scale.
 
-📚 Currently wrapping up my **MS in Computer Science** at **San Jose State University**, I’m actively looking for **full-time software engineering roles**.
+📚 Pursued **MS in Computer Science** at **San Jose State University**, I’m actively looking for **full-time software engineering roles**.
 
 📫 **Reach me at:** rahul.sanjay009@gmail.com  
 🌐 [Portfolio](https://rahulsanjay009.github.io) | 💼 [LinkedIn](https://www.linkedin.com/in/rahulsanjay009/) | 🐱 [GitHub](https://github.com/rahulsanjay009) | 🧠 [LeetCode](https://leetcode.com/rahulsanjay009)
@@ -22,7 +22,7 @@ I'm a **Full Stack Software Engineer** based in **San Jose, CA**, passionate abo
 
 </td>
 <td>
-  <img src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" width="250" alt="Coding Gif" />
+  <img src="https://camo.githubusercontent.com/0e2953d98b21eda5a158939ea202c7c07b16b0dc0dc5c1e269826c29a01a974f/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" width="350" alt="Coding Gif" />
 </td>
 </tr>
 </table>
@@ -65,11 +65,6 @@ I'm a **Full Stack Software Engineer** based in **San Jose, CA**, passionate abo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsanjay009&show_icons=true&theme=light&count_private=true) ![GitHub Streak](https://streak-stats.demolab.com?user=rahulsanjay009&theme=light) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsanjay009&layout=compact&theme=light) [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rahulsanjay009&theme=light)](https://github.com/rahulsanjay009)
 
 ---
-
-## 🤝 Connect With Me
-
-📧 **rahul.sanjay009@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/rahulsanjay009/) | 🐱 [GitHub](https://github.com/rahulsanjay009) | 🧠 [LeetCode](https://leetcode.com/rahulsanjay009)
 
 ---
 
