@@ -1,29 +1,36 @@
 # 👋 Hi there, I'm Rahul Sanjay Morishetti
 
-I'm a Full Stack Software Engineer based in **San Jose, CA**, specializing in scalable and performant applications across **web**, **cloud**, and **AI**. I bring hands-on experience in building full-stack platforms, intelligent assistants, automation pipelines, and cloud-native applications.
+I'm a passionate and creative **Full Stack Software Engineer** based in **San Jose, CA**, driven by curiosity and the thrill of solving real-world problems through scalable software systems. I build modern web apps, cloud-native platforms, and intelligent assistants across diverse tech stacks.
 
-With professional experience at **Amazon** and **NexInfo**, I’ve delivered production-ready software in both enterprise and startup environments. From designing adaptive sales forecasting systems using ML, to crafting real-time inventory management dashboards with React and Django, I thrive at the intersection of problem-solving and engineering excellence.
+📚 I'm currently exploring advanced system design and large language model (LLM) integrations while actively seeking **full-time software engineering roles starting July 2025**.
 
-🌍 [Portfolio Website](https://rahulsanjay009.github.io) | 💼 [LinkedIn](https://www.linkedin.com/in/rahulsanjay009/) | 🐱 [GitHub](https://github.com/rahulsanjay009) | 🧠 [LeetCode](https://leetcode.com/rahulsanjay009)  
-📧 Reach me at: **rahul.sanjay009@gmail.com**
-
----
-
-## 🧠 About Me (in motion)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
+📫 **Reach me at:** rahul.sanjay009@gmail.com  
+🌍 [Portfolio Website](https://rahulsanjay009.github.io) | 💼 [LinkedIn](https://www.linkedin.com/in/rahulsanjay009/) | 🐱 [GitHub](https://github.com/rahulsanjay009) | 🧠 [LeetCode](https://leetcode.com/rahulsanjay009)
 
 ---
 
-## 🚀 Skills & Tools
+## 👨‍🎓 About Me
+
+🚀 Former **Software Engineer** at **Amazon** and currently building internal platforms at **NexInfo** using **React, Django, AWS**, and **AI-powered bots**. I’ve delivered tools that optimize inventory, automate operations, and provide real-time data insights.
+
+🎓 I'm finishing my **MS in Computer Science** at **San Jose State University**. My academic and professional journey reflects my love for full-stack architecture, cloud technologies, and applied machine learning.
+
+💡 Whether it's transforming business workflows or scaling backend pipelines, I enjoy bringing together design, code, and collaboration to make great software happen.
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,nextjs,angular,ionic,tailwind,nodejs,express,spring,django,flask,mysql,postgres,mongodb,redis,docker,kubernetes,aws,jenkins,githubactions,postman,swagger,figma,vite,vercel,nginx,graphql,prisma,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,ts,js,ruby,go,html,css,react,nextjs,angular,ionic,nodejs,express,django,flask,spring,mysql,postgres,mongodb,redis,graphql,docker,kubernetes,aws,gcp,azure,jenkins,nginx,linux,git,vscode,postman,figma,vercel,heroku" />
 </p>
 
-Additional: LangChain · LLMs · REST APIs · Agile · CI/CD · Microservices · Responsive Design · VS Code · Jest · JUnit · Pandas · NumPy · Scikit-Learn · Matplotlib · Chart.js
+🧠 Other Technologies & Concepts:
+- LangChain, LLMs, Pandas, NumPy, scikit-learn, Matplotlib, TensorFlow
+- REST, SOAP, gRPC APIs, OAuth, JWT, Redux, Prisma
+- Apache Kafka, Firebase, CosmosDB, DynamoDB
+- Agile, CI/CD, GitHub Actions, JUnit, Jest, Swagger, Mocha, ETL
+- Adobe XD, Dreamweaver, Photoshop, AR/VR, Unity
 
 ---
 
@@ -31,43 +38,39 @@ Additional: LangChain · LLMs · REST APIs · Agile · CI/CD · Microservices ·
 
 **NexInfo Solutions Inc.** — *Software Engineer*  
 *Jan 2024 – Present*  
-- Built internal inventory and event management platforms with React, Django REST, and AWS.
-- Integrated AI tools for natural language querying (AWS Lex) and chatbot interactions.
+- Developed React-based inventory & event management systems with Django REST APIs
+- Integrated AI bots using AWS Lex and cloud automation pipelines using Docker & EC2
 
 **Amazon Development Center** — *Software Engineer*  
 *Aug 2021 – Jul 2022*  
-- Developed internal automation tools and UI workflows that reduced manual review time by 30%.
-- Worked with Spring Boot microservices, internal orchestration tools, and messaging queues.
+- Designed UI workflows and automation tools to streamline approval pipelines
+- Reduced manual data verification tasks by 30% through internal orchestration tools
 
 ---
 
-## 🔥 GitHub Stats
+## 🧩 Featured Projects
+
+- 🔗 [Party Rentals IMS](https://github.com/rahulsanjay009/partyrentals) – Real-time inventory dashboard with chatbot support
+- 🔗 [Adaptive Sales Forecasting](https://github.com/rahulsanjay009/adaptive-sales-forecasting) – Dockerized ML platform using XGBoost, LSTM, SARIMA
+- 🔗 [Grocery App](https://github.com/rahulsanjay009/grocery-app) – Ionic + Spring Boot app for real-time order fulfillment
+
+---
+
+## 📈 GitHub Stats
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsanjay009&show_icons=true&theme=light&count_private=true) 
 ![Rahul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rahulsanjay009&theme=light) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsanjay009&layout=compact&theme=light)
 
----
-
-## ✨ Featured Projects
-
-- 🔗 [Party Rentals IMS](https://github.com/rahulsanjay009/partyrentals) – Inventory system with real-time React UI, Django backend, AWS Lex chatbot
-- 🔗 [Adaptive Sales Forecasting](https://github.com/rahulsanjay009/adaptive-sales-forecasting) – ML models with XGBoost, LSTM, SARIMA; Dockerized on Oracle OCI
-- 🔗 [Grocery App](https://github.com/rahulsanjay009/grocery-app) – Ionic + Spring Boot real-time grocery ordering system
-
----
-
-## 📈 GitHub Activity
-
 [![Rahul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rahulsanjay009&theme=light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📬 Contact Me
+## 🤝 Let's Connect!
 
-Want to collaborate, hire, or just chat? Feel free to reach out!  
+📬 Feel free to reach out for collaborations, freelance gigs, or just to say hi 👋  
 📧 **rahul.sanjay009@gmail.com**  
-📱 [LinkedIn](https://www.linkedin.com/in/rahulsanjay009/) | 🐱 [GitHub](https://github.com/rahulsanjay009) | 🧠 [LeetCode](https://leetcode.com/rahulsanjay009)
+💼 [LinkedIn](https://www.linkedin.com/in/rahulsanjay009/) | 🐱 [GitHub](https://github.com/rahulsanjay009) | 🧠 [LeetCode](https://leetcode.com/rahulsanjay009)
 
 ---
 
