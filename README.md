@@ -11,20 +11,21 @@ I'm a **Full Stack Software Engineer** based in **San Jose, CA**, passionate abo
 
 ## 👨‍💻 About Me
 
-<div align="left">
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <div>
-      🔹 Former **Software Engineer** at **Amazon**, now building internal tools at **NexInfo** using **React**, **Django**, and **AWS**.
+<table>
+<tr>
+<td>
 
-      🔹 I’ve created chatbots, inventory systems, and forecasting tools — all focused on performance and automation.
+🔹 Former **Software Engineer** at **Amazon**, now building internal tools at **NexInfo** using **React**, **Django**, and **AWS**.<br>
+🔹 I’ve created chatbots, inventory systems, and forecasting tools — all focused on performance and automation.<br>
+🔹 I love building end-to-end solutions using modern frontend frameworks, RESTful backends, and cloud-native pipelines.<br>
+🔹 Tech-savvy and business-aware — I collaborate cross-functionally and deliver impact fast.
 
-      🔹 I love building end-to-end solutions using modern frontend frameworks, RESTful backends, and cloud-native pipelines.
-
-      🔹 Tech-savvy and business-aware — I collaborate cross-functionally and deliver impact fast.
-    </div>
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding Gif" />
-  </div>
-</div>
+</td>
+<td>
+  <img src="https://raw.githubusercontent.com/rahulsanjay009/rahulsanjay009/main/assets/code-typing.gif" width="250" alt="Coding Gif" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,7 +69,7 @@ I'm a **Full Stack Software Engineer** based in **San Jose, CA**, passionate abo
 
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulsanjay009&show_icons=true&theme=light&count_private=true)
 
-![Rahul's GitHub Streak](https://streak-stats.demolab.com?user=rahulsanjay009&theme=light)
+![Rahul's GitHub Streak](https://streak-stats.demolab.com/?user=rahulsanjay009&theme=light)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulsanjay009&layout=compact&theme=light)
 
